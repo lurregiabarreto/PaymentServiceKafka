@@ -1,4 +1,4 @@
-# PaymentServiceManager: Curso de Apache Kafka com Spring Boot e Docker
+# PaymentServiceKafka: Curso de Apache Kafka com Spring Boot e Docker
 
 Bem-vindo ao repositório do curso de Kafka! Neste curso, é usado o  Apache Kafka com Spring Boot e Docker, cobrindo desde conceitos básicos até avançados. 
 
